@@ -1,0 +1,21 @@
+d) Node.js y JavaScript son lo mismo.
+
+ANSWER: C
+
+¿Cuál es la principal ventaja de Node.js?
+
+a) Su facilidad de uso.
+b) Su bajo costo.
+c) Su arquitectura no bloqueante, que lo hace ideal para aplicaciones en tiempo real.
+d) Su gran comunidad de desarrolladores.
+
+ANSWER: C
+
+¿Qué representa el objeto process en Node.js?
+
+A) Representa el proceso principal del sistema operativo.
+B) Es un objeto global que proporciona información y control sobre el proceso Node.js en ejecución.
+C) Es una clase para crear procesos secundarios en Node.js.
+D) Ninguna de las anteriores.
+
+ANSWER: B
