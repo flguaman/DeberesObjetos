@@ -1,21 +1,28 @@
-d) Node.js y JavaScript son lo mismo.
+Pregunta 1: Django
 
-ANSWER: C
+Enfoque de desarrollo:
 
-¿Cuál es la principal ventaja de Node.js?
+a) Basado en convenciones 
+b) Basado en configuraciones
+c) Basado en componentes 
 
-a) Su facilidad de uso.
-b) Su bajo costo.
-c) Su arquitectura no bloqueante, que lo hace ideal para aplicaciones en tiempo real.
-d) Su gran comunidad de desarrolladores.
+Explicación:
 
-ANSWER: C
+Django es conocido por su filosofía de desarrollo "basada en convenciones sobre configuraciones", lo que significa que los desarrolladores pueden seguir pautas establecidas en lugar de tener que especificar explícitamente cada detalle de la aplicación. Esto simplifica el proceso de desarrollo y facilita la creación de aplicaciones web robustas y mantenibles.
 
-¿Qué representa el objeto process en Node.js?
+Pregunta 2: .NET
 
-A) Representa el proceso principal del sistema operativo.
-B) Es un objeto global que proporciona información y control sobre el proceso Node.js en ejecución.
-C) Es una clase para crear procesos secundarios en Node.js.
-D) Ninguna de las anteriores.
+Lenguajes de programación compatibles:
 
-ANSWER: B
+a) C#
+b) Java 
+c) Python 
+
+Explicación:
+
+.NET es un marco de desarrollo de software creado por Microsoft, y su lenguaje de programación principal es C#. C# es un lenguaje de programación moderno, orientado a objetos y de alto rendimiento que es ampliamente utilizado para desarrollar aplicaciones web, aplicaciones de escritorio y servicios web.
+
+Respuestas:
+
+Pregunta 1: (a) Basado en convenciones Pregunta 2: (a) C# 
+
